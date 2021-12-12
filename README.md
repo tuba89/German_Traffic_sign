@@ -42,8 +42,11 @@ Useful for image processing: pip3.9 install opencv3
 ![The Loss Curve](perfomance/LOSScurve.png)
 
 
-![The Accuracy Curve](perfomance/ACCCURVE.PNG')
-
+![The Accuracy Curve](perfomance/ACCCURVE.PNG)
+<!-- <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p> -->
 
 ### 2. Testing, Validation & Training Evaluation:
 ![Evaluation](perfomance/testValTrain.PNG)
@@ -51,8 +54,8 @@ Useful for image processing: pip3.9 install opencv3
 
 
 ### 3. Confusion Matrix:
-![Confusion Matrix](perfomance/confusionmatrix.PNG')
-<img src="perfomance/confusionmatrix.PNG" width="800" />
+![Confusion Matrix](perfomance/confusionmatrix.PNG)
+
 
 
 ### 4. Original images vs Predicted 25 random images:
