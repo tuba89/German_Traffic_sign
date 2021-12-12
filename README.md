@@ -25,17 +25,17 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 # Dependencies
 This project requires Python 3.8 or 3.9 and the following Python libraries installed:
 
-Jupyter
-NumPy
-SciPy
-scikit-learn
-keras
-TensorFlow
-pickle
-Matplotlib
-Pandas 
-Run this command at the terminal prompt to install OpenCV. 
-Useful for image processing: pip3.9 install opencv3
+. Jupyter
+. NumPy
+. SciPy
+. scikit-learn
+. keras
+. TensorFlow
+. pickle
+. Matplotlib
+. Pandas 
+3 Run this command at the terminal prompt to install OpenCV. 
+Useful for image processing: **pip3.9 install opencv3**
 
 # Some Visualisations:
 ### 1. Loss & Accuracy curves:
@@ -47,6 +47,10 @@ Useful for image processing: pip3.9 install opencv3
   <img src="perfomance/ACCCURVE.PNG" width="350" title="The Accuracy Curve">
   <img src="perfomance/ACCCURVE.PNG" width="350" alt="The Accuracy Curve">
 </p> 
+
+<img src="perfomance/ACCCURVE.PNG" />
+
+
 
 ### 2. Testing, Validation & Training Evaluation:
 ![Evaluation](perfomance/testValTrain.PNG)
