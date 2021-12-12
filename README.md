@@ -39,10 +39,10 @@ Useful for image processing: pip3.9 install opencv3
 
 # Some Visualisations:
 ### 1. Loss & Accuracy curves:
-![The Loss Curve](perfomance/LOSScurve.png)
+![The Loss Curve](perfomance\LOSScurve.png)
 
 
-![The Accuracy Curve](perfomance/ACCCURVE.PNG')
+![The Accuracy Curve](perfomance\ACCCURVE.PNG')
 
 
 ### 2. Testing, Validation & Training Evaluation:
@@ -51,7 +51,7 @@ Useful for image processing: pip3.9 install opencv3
 
 
 ### 3. Confusion Matrix:
-![Confusion Matrix](perfomance/confusionmatrix.PNG')
+![Confusion Matrix](perfomance\confusionmatrix.PNG')
 
 
 
