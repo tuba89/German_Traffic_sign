@@ -50,6 +50,8 @@ Useful for image processing: **pip3.9 install opencv3**
 
 <img src="perfomance/ACCCURVE.PNG" />
 
+![](perfomance/ACCCURVE.PNG)
+
 
 
 ### 2. Testing, Validation & Training Evaluation:
