@@ -25,25 +25,15 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 # Dependencies
 This project requires Python 3.8 or 3.9 and the following Python libraries installed:
 
-. Jupyter
-
-. NumPy
-
-. SciPy
-
-. scikit-learn
-
-. keras
-
-. TensorFlow
-
-. pickle
-
-. Matplotlib
-
-. Pandas 
-
-. Run this command at the terminal prompt to install OpenCV. 
+* Jupyter notebook and a GPU
+* NumPy
+* scikit-learn
+* keras and TensorFlow
+* pickle
+* Matplotlib
+* seaborn (optional)
+* Pandas  
+* Run this command at the terminal prompt to install OpenCV. 
 Useful for image processing: **pip3.9 install opencv3**
 
 # Some Visualisations:
