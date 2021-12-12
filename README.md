@@ -38,29 +38,29 @@ Run this command at the terminal prompt to install OpenCV.
 Useful for image processing: pip3.9 install opencv3
 
 # Some Visualisations:
-1- Loss & Accuracy curves:
+### 1. Loss & Accuracy curves:
 ![The Loss Curve](perfomance/LOSScurve.png)
 ![The Accuracy Curve](perfomance/ACC CURVE.png)
 
 
-2- Testing, Validation & Training Evaluation:
+### 2. Testing, Validation & Training Evaluation:
 ![Evaluation](perfomance/testValTrain.PNG)
 
 
 
-3- Confusion Matrix:
+### 3. Confusion Matrix:
 ![Confusion Matrix](perfomance/confusion matrix.png)
 
 
-4- Original images vs Predicted 25 random images:
+### 4. Original images vs Predicted 25 random images:
 ![Origine/predict](perfomance/downloadvisvis.png)
 
 
-### Credits
+## Credits
 
 1. [GitHub](http://github.com)
 2. [udacity](https://www.udacity.com/).
 3. [Stackoverflow](https://stackoverflow.com)
 4. [Git Large File Storage (LFS)](https://git-lfs.github.com/)
 6. [Kaggle](https://www.kaggle.com/)
-7. [CarND-Traffic-Sign-Classifier-Project](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+7. [CarND-Traffic-Sign-Classifier-Project](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project)
