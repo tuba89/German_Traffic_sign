@@ -39,18 +39,11 @@ Useful for image processing: **pip3.9 install opencv3**
 
 # Some Visualisations:
 ### 1. Loss & Accuracy curves:
+      * Loss Plot
 ![The Loss Curve](perfomance/LOSScurve.png)
 
-
+      * Accuracy Plot
 ![The Accuracy Curve](images/acuracy.png)
-<p align="center">
-  <img src="perfomance/ACCCURVE.PNG" width="350" title="The Accuracy Curve">
-  <img src="perfomance/ACCCURVE.PNG" width="350" alt="The Accuracy Curve">
-</p> 
-
-<img src="perfomance/ACCCURVE.PNG" />
-
-![](perfomance/ACCCURVE.PNG)
 
 
 
@@ -59,8 +52,8 @@ Useful for image processing: **pip3.9 install opencv3**
 
 
 
-### 3. Confusion Matrix:
-![Confusion Matrix](perfomance/confusionmatrix.PNG)
+### 3. Confusion Matrix Plot with seaborn heatmap:
+![Confusion Matrix](perfomance/images/confusion.png)
 
 
 
