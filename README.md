@@ -53,7 +53,7 @@ Useful for image processing: **pip3.9 install opencv3**
 
 
 ### 3. Confusion Matrix Plot with seaborn heatmap:
-![Confusion Matrix](perfomance/images/confusion.png)
+![Confusion Matrix](images/confusion.png)
 
 
 
