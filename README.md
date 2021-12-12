@@ -43,10 +43,10 @@ Useful for image processing: pip3.9 install opencv3
 
 
 ![The Accuracy Curve](perfomance/ACCCURVE.PNG)
-<!-- <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p> -->
+<p align="center">
+  <img src="perfomance/ACCCURVE.PNG" width="350" title="The Accuracy Curve">
+  <img src="perfomance/ACCCURVE.PNG" width="350" alt="The Accuracy Curve">
+</p> 
 
 ### 2. Testing, Validation & Training Evaluation:
 ![Evaluation](perfomance/testValTrain.PNG)
