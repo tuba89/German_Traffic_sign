@@ -40,9 +40,11 @@ Useful for image processing: **pip3.9 install opencv3**
 # Some Visualisations:
 ### 1. Loss & Accuracy curves:
    . Loss Plot
+   
 ![The Loss Curve](perfomance/LOSScurve.png)
 
    . Accuracy Plot
+   
 ![The Accuracy Curve](images/acuracy.png)
 
 
@@ -55,7 +57,7 @@ Useful for image processing: **pip3.9 install opencv3**
 
 
 
-### 4. Dataframe of some 17 class accuracy:
+### 4. Dataframe of some 18 class accuracy:
 ![Confusion Matrix](perfomance/accuracylabels.PNG)
 
 
